@@ -5,5 +5,9 @@ third line throuh main
 fourth line form main branch
 
 this text added from branch1
+<<<<<<< HEAD
 again form main 
 text after branch2 creation
+=======
+text from branch2
+>>>>>>> branch2
